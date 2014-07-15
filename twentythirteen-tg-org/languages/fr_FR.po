@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matthieu Faure <mfaure@open-s.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ==============================================================================
+# Front-page
+# front-page.php
+
+msgid "Everest Simply Title"
+msgstr "L'accessibilité, simplement"
+
+msgid "Everest Simply Little Phrase"
+msgstr "La voie la plus rapide pour optimiser votre accessibilité."
+
+msgid "Everest Fast Title"
+msgstr "Accélérez vos tests d’accessibilité. Vraiment."
+
+msgid "Everest Fast Little Phrase"
+msgstr "Tanaguru automatise 167 tests d'accessibilité (<abbr title=\"Référentiel Général d'Accessibilité des Administrations\">RGAA</abbr>, AccessiWeb, <span lang=\"en\"><abbr title=\"Web Content Accessibility Guidelines\">WCAG</abbr></span>).<br /> L'évaluation d'une page, d'un site entier ou d'une application web est fiable, intuitive et elle-même accessible."
+
+msgid "Button Test Tanaguru"
+msgstr "Tester Tanaguru"
+
+# ------------------------------------------------------------------------------
+# Technology
+
+msgid "Technology Title"
+msgstr "Plusieurs types d’analyses, tous les usages"
+
+msgid "Techno1 Title"
+msgstr "Gabarit &amp; page web"
+
+msgid "Techno2 Title"
+msgstr "Site entier"
+
+msgid "Techno3 Title"
+msgstr "Scénario"
+
+msgid "Techno1 Feature"
+msgstr "Les gabarits en cours de création peuvent être audités avant même leur mise en production.<br />Les pages web sont évaluées instantanément."
+
+msgid "Techno2 Feature"
+msgstr "Grâce à son <span lang=\"en\">crawler</span>, Tanaguru parcours la totalité du site. Portail institutionnel, blog ou site vitrine, mesurez l'accessibilité de 10000 pages en un clic !"
+
+msgid "Techno3 Feature"
+msgstr "Validez les applications Javascript, les intranets ou le parcours d'achat d'un site e-commerce. L'audit scénario permet même de contrôler plusieurs états d'une même page."
+
+# ------------------------------------------------------------------------------
+# Why Tanaguru
+
+msgid "Why Title"
+msgstr "Pourquoi Tanaguru ?"
+
+msgid "Why1 Title"
+msgstr "Fiable"
+
+msgid "Why2 Title"
+msgstr "Automatisé"
+
+msgid "Why3 Title"
+msgstr "Facile"
+
+msgid "Why1 Description"
+msgstr "Les résultats de Tanaguru sont fiables. En cas de doute, il vous informe au lieu de donner un résultat faux. Tanaguru vous fournit tous les éléments nécessaires à votre prise de décision."
+
+msgid "Why2 Description"
+msgstr "Vous en avez marre de compter les <code>alt</code> à la main ? Nous aussi ! Repousser les limites de l'automatisation est notre motivation. Offrir des gains de productivité fait partie du code (génétique) de Tanaguru."
+
+msgid "Why3 Description"
+msgstr "Les normes d'accessibilité peuvent être complexes. Tanaguru apporte les marche-pieds pour bien initier sa mise en conformité."
+
+# ------------------------------------------------------------------------------
+# Steps
+
+msgid "Steps Title"
+msgstr "Simple, rapide, adapté"
+
+msgid "Steps Little Phrase"
+msgstr "Avec Tanaguru, 4 étapes suffisent pour tester un site entier, de manière personnalisable, fiable et agréable."
+
+msgid "Step1 Description"
+msgstr "Lancez un audit en le parametrant suivant vos besoins"
+
+msgid "Step2 Description"
+msgstr "Définissez vos priorités grâce à la synthèse globale."
+
+msgid "Step3 Description"
+msgstr "À vous de jouer&nbsp;! Utilisez les résultats détaillés."
+
+msgid "Step4 Description"
+msgstr "Suivez l’évolution de l’accessibilité de votre site."
+
+# ------------------------------------------------------------------------------
+# References
+
+msgid "References slogan subject"
+msgstr "Ils"
+
+msgid "References slogan verb"
+msgstr "aiment"
+
+msgid "References Little Phrase"
+msgstr "Ils nous font confiance et nous en sommes très fiers, merci."
+
+msgid "Evaluate your accessibility !"
+msgstr "Evaluer votre accessibilité !"
+
+# ==============================================================================
+# Header
+# header.php
+
+msgid "Sign up"
+msgstr "S'inscrire"
+
+msgid "Sign in"
+msgstr "Se connecter"
+
+# ==============================================================================
+# Footer
+# footer.php
+
+msgid "And also"
+msgstr "Et aussi"
+
+msgid "Technology link title"
+msgstr "La technologie Tanaguru"
+
+msgid "Technology link text"
+msgstr "Notre technologie"
+
+msgid "Technology link"
+msgstr "Link_to_Technology_Page"
+
+msgid "Tour link text"
+msgstr "Visite guidées"
+
+msgid "Tour link"
+msgstr "Link_to_Tour_Page"
+
+msgid "Offer link text"
+msgstr "Offres"
+
+msgid "Offer link"
+msgstr "Link_to_Offer_Page"
+
+msgid "Contact link"
+msgstr "http://www.tanaguru.com/fr/contact/"
+
+msgid "KBAccess link title"
+msgstr "KBAccess - bons et mauvais exemples d'accessibilité en mode collaboratif"
+
+msgid "KBAccess URL"
+msgstr "http://www.kbaccess.org"
+
+msgid "Contrast-Finder link title"
+msgstr "Contrast-Finder *propose* les bonnes couleurs pour un contraste valide"
+
+msgid "Contrast-Finder URL"
+msgstr "http://contrast-finder.tanaguru.com"
+
+msgid "Observatory link text"
+msgstr "L'Observatoire"
+
+msgid "Observatory URL"
+msgstr "http://observatoire-accessibilite.org"
+
+msgid "Open-S URL"
+msgstr "http://www.open-s.com"
+
+msgid "Press link text"
+msgstr "Presse"
+
+msgid "Press link"
+msgstr "link_to_Press_page"
+
+msgid "Social Tanaguru"
+msgstr "Tanaguru sur les réseaux sociaux"
+
+msgid "Tanaguru on Twitter"
+msgstr "Tanaguru sur Twitter"
+
+msgid "Twitter link title"
+msgstr "Tanaguru sur Twitter"
+
+msgid "Twitter link"
+msgstr "https://twitter.com/tanaguruapp"
+
+msgid "Tanaguru on Github"
+msgstr "Tanaguru sur Github"
+
+msgid "Github link title"
+msgstr "Tanaguru sur Github"
+
+msgid "Github link"
+msgstr "https://github.com/Tanaguru/Tanaguru"
+
+msgid "Tanaguru on Linkedin"
+msgstr "Tanaguru sur Linkedin"
+
+msgid "Linkedin link title"
+msgstr "Tanaguru sur Linkedin"
+
+msgid "Linkedin link"
+msgstr "https://www.linkedin.com/company/open-s"
+
+msgid "Tanaguru on Slideshare"
+msgstr "Tanaguru sur Slideshare"
+
+msgid "Slideshare link title"
+msgstr "Tanaguru sur Slideshare"
+
+msgid "Slideshare link"
+msgstr "http://fr.slideshare.net/OpenSCompany"
+
+msgid "Tanaguru on Ohloh"
+msgstr "Tanaguru sur Ohloh"
+
+msgid "Ohloh link title"
+msgstr "Tanaguru sur Ohloh"
+
+msgid "Ohloh link"
+msgstr "https://www.ohloh.net/p/Tanaguru"
+
+msgid "Tanaguru free software by Open-S"
+msgstr "Tanaguru, logiciel libre édité par la société <a href=\"http://www.Open-S.com/\">Open-S</a>"
+
+msgid "Legal text link"
+msgstr "Mentions légales"
+
+msgid "Legal link"
+msgstr "http://www.tanaguru.com/fr/mentions-legales/"
+
+msgid "Credits text link"
+msgstr "Crédits"
+
+msgid "Credits link"
+msgstr "http://www.tanaguru.com/fr/credits/"
+
+msgid "Accessibility text link"
+msgstr "Aide et Accessibilité"
+
+msgid "Accessibility link"
+msgstr "Link_to_Accessibility_page"
+
